@@ -4,8 +4,8 @@ Quick reference for commonly used Colleague screen codes.
 
 | Screen Code | Purpose |
 |-------------|---------|
-| **STPE** | CAP Forms |
-| **XSRWS** | Waivers |
+| **STPE** | Special Admit Waivers, Overload Petition Waivers, etc. |
+| **XSRWS** | Pre/Corequisite Waivers |
 | **TRRQ** | Transcript Requests |
 | **TRAN** | SAC Transcript |
 | **PERC** | Holds |
@@ -15,7 +15,7 @@ Quick reference for commonly used Colleague screen codes.
 | **SECT** | Pre-requisites |
 | **XSGRT** | Spam applications |
 | **PSPR** | Degree Audit (Academic Programs: SAC.LA.AA, Year: 2010) |
-| **COAF** | Student record / priority registration codes |
+| **COAF** | Campus Organization/Association Flag |
 | **RGN** | Registration |
 | **STAC** | Student academic record / course detail |
 | **RESD** | Residency screen |

@@ -20,6 +20,7 @@ Applies to both individual transfers and division-requested bulk transfers for c
 9. Click **Save All**.
 
 **STAC:**
+
 1. Detail into the dropped section.
 2. Add **`TR`** code to the dropped section — note the time.
 3. Click Save.
@@ -46,6 +47,7 @@ Applies to both individual transfers and division-requested bulk transfers for c
 **RGN:** Drop the added section and re-register in the prior section.
 
 **STAC:**
+
 1. Add **`ER`** (Error) code to the newly dropped/wrong section and add a comment explaining why it was added then dropped. Be specific. Timestamp.
 2. Drill into the class that was added back — delete the add and drop line so only the original registration information remains.
 
@@ -54,6 +56,7 @@ Applies to both individual transfers and division-requested bulk transfers for c
 ## Waitlist Rollover — By Division Request
 
 ### Summary
+
 1. Division provides Waitlist Roster (AM118 report).
 2. Ensure there is space in the desired section.
 3. Batch Registration — verify eligibility first (run on **No Update** first).
@@ -62,12 +65,14 @@ Applies to both individual transfers and division-requested bulk transfers for c
 ### Steps
 
 **SWLM or Query — Get students in requested sections:**
+
 1. Go to the section of students to be moved.
 2. Export the Excel sheet.
 
 **SLED:** Put students in SLED list.
 
 **SCBL:**
+
 1. Name your Section Block (will be used in BRGN).
 2. Enter Term/Start/End Date.
 3. Enter course name and section number.
@@ -86,6 +91,7 @@ Remove any students with errors from the list before running with Y.
 **SWLM:** Drop students who were registered from their waitlist.
 
 **Final Steps:**
+
 1. Send email with Excel sheet of registered/non-registered students.
 2. File email and processed waitlist roster to student records in Laserfiche.
 

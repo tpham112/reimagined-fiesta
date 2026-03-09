@@ -51,6 +51,7 @@ nav:
     - FERPA: general/ferpa.md
     - Waitlist Guidelines: general/waitlist-guidelines.md
     - New Staff Onboarding: general/onboarding.md
+    - Deceased Student Process: general/deceased-student.md
   - ARI Procedures:
     - Overview: ari/index.md
     - AB 540: ari/ab540.md
@@ -95,12 +96,14 @@ nav:
       - Prerequisite Challenge: arii/petitions/prerequisite-challenge.md
       - SB554 Special Admit: arii/petitions/sb554.md
     - Residency Notes: arii/residency-notes.md
+    - Subpoenas: arii/subpoenas.md
   - ARIII Procedures:
     - Overview: ariii/index.md
     - Responsibilities: ariii/responsibilities.md
     - CJ/Fire General Info: ariii/cj-fire-info.md
     - CJA Enrollment: ariii/cja-enrollment.md
     - Fire Tech Enrollment: ariii/fire-tech-enrollment.md
+    - Instructor Change Forms: ariii/instructor-change-forms.md
     - Applications: ariii/applications.md
     - Fraudulent Applications: ariii/fraud.md
     - Petitions: ariii/petitions.md
@@ -130,5 +133,4 @@ nav:
     - Section Dates: artech/section-dates.md
     - Unit Changes: artech/unit-changes.md
     - Miscellaneous: artech/miscellaneous.md
-  - Deceased Student Process: deceased-student.md
-  - Subpoenas: subpoenas.md
+

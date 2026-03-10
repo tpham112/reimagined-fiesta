@@ -10,14 +10,14 @@
     - Drill into High School or adult education center.
     - Find **Graduation Type** and update as appropriate:
 
-| Graduation Type | What It Means |
-|----------------|---------------|
-| **Diploma** | High school diploma from a school; will be on their official transcript |
-| **Proficiency Exam** | Equivalent to GED |
-| **High School Equivalency** | GED per Nancy for financial aid |
-| **HiSET** | GED |
-| **GED** | State-issued GED certificate |
-| **Foreign Diploma** | Completed high school in another country |
+    | Graduation Type | What It Means |
+    |----------------|---------------|
+    | **Diploma** | High school diploma from a school; will be on their official transcript |
+    | **Proficiency Exam** | Equivalent to GED |
+    | **High School Equivalency** | GED per Nancy for financial aid |
+    | **HiSET** | GED |
+    | **GED** | State-issued GED certificate |
+    | **Foreign Diploma** | Completed high school in another country |
 
 3. **Save All**.
 4. Mark the form and return it to the student to turn into Financial Aid.

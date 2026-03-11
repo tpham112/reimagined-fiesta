@@ -6,8 +6,8 @@ Processing steps when a law enforcement investigator requests a background check
 
 1. Have the investigator **sign in**.
 
-!!! note
-    Sign-In sheet can be found the Administrative Assistant's desk.
+    !!! note
+        Sign-In sheet can be found the Administrative Assistant's desk.
 
 2. **Verify their badge**.
 3. Take the **release form** — this is **REQUIRED**.

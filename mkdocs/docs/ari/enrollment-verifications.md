@@ -74,7 +74,7 @@
 
 ## 3rd Party Verifications
 
-- Refer to **National Student Clearinghouse** when possible.
+- Refer to [**National Student Clearinghouse**](https://www.studentclearinghouse.org/) when possible.
 - If a formal written request is submitted:
     - Require a **$2 check payable to RSCCD**
     - Student must submit a verification letter request and pay at Cashier's Office.
@@ -108,7 +108,7 @@
 ## Additional Notes
 
 - We do **not** verify information over the phone.
-    - If a 3rd party calls, refer to **National Student Clearinghouse**.
+    - If a 3rd party calls, refer to [**National Student Clearinghouse**](https://www.studentclearinghouse.org/).
 - When emailing or responding to schools/employers: direct to Clearinghouse when possible, or collect $2 for form completion.
 - **FERPA-Blocked Students:** If an employer provides a valid release form, verify identity and proceed.
 - Email processing is allowed **without the embosser** (per Chris) if needed.

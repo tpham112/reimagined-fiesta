@@ -16,6 +16,8 @@ Step 2: Find Student Change of Information Request Form and Click Number Under M
 
 Step 3: Click "Complete Form"
 
+![Click "Complete Form"](../images/locatingrequest2.png)
+
 ---
 
 ## Address Change

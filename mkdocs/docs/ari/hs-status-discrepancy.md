@@ -1,12 +1,24 @@
 # High School Status Discrepancy
 
-## Steps
+## Overview
 
-1. Request the student's **official high school diploma or official high school transcript** showing awarding of diploma.
+The Financial Aid office issues **High School Status Discrepancy** forms when a student's high school data in Colleague does not align with the information provided on their **FAFSA**.
+
+---
+
+## Processing Steps
+
+1. Navigate to **Colleague → IASU**.
+2. Detail into the student's high school.
+3. Verify if we have the correct high school graduation status.
+
+    - If it is correct, the student needs to update their **FAFSA** application. Once it is updated, the student needs to notify our Financial Aid office.
+
+    - If it is incorrect, proceed to the following steps.
+3. Request the student's **official high school diploma or official high school transcript** showing awarding of diploma.
     - Make copies.
     - Send originals to scanning.
-
-2. Open **IASU or ASUM**.
+4. Open **IASU or ASUM**.
     - Drill into High School or adult education center.
     - Find **Graduation Type** and update as appropriate:
 
@@ -14,25 +26,25 @@
     |----------------|---------------|
     | **Diploma** | High school diploma from a school; will be on their official transcript |
     | **Proficiency Exam** | Equivalent to GED |
-    | **High School Equivalency** | GED per Nancy for financial aid |
+    | **High School Equivalency** | GED per Financial Aid |
     | **HiSET** | GED |
     | **GED** | State-issued GED certificate |
     | **Foreign Diploma** | Completed high school in another country |
-
-3. **Save All**.
-4. Mark the form and return it to the student to turn into Financial Aid.
-5. We can archive the Financial Aid form instead of having the student fill out a new Change of Information Request.
+5. Click **Save All**.
+6. Mark the form and return it to the student to turn into Financial Aid.
+7. We can archive the Financial Aid form instead of having the student fill out a new Change of Information Request.
 
 ---
 
-## Notes
+## Edge Cases & Notes
 
 ### Student Completed High School in Another Country
 - Change to **Foreign Diploma**.
 - We do **not** need to ask for documentation.
 
 ### If It Is an Old Form
-- Students no longer need it.
+- The form displays the term it is referencing.
+- If it is for a past term, students no longer need it.
 - Have them contact Financial Aid.
 
 ### Can We Use Unofficial Transcripts?
@@ -40,7 +52,8 @@
 - *"For the high school transcript I would update it since it is self-reported on CCCApply. However, in order for us to remove the bachelor's degree we would need proof of non-enrollment/degree because it may make the student eligible or ineligible for financial aid."* — Hung, 12/30/21
 
 ### Student Cannot Obtain High School Transcripts or Diploma
-- Ask Hung.
+- Case-by-case review.
+- Check w/ Dean/Associate Dean.
 
 ### After Receiving Letter of Non-Enrollment for University
 - Financial Aid will take over and have the student sign a form stating the student made a mistake in reporting they received a bachelor's degree, and they will no longer be able to transfer units from that program to SAC.

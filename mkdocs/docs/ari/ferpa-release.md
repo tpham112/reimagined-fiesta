@@ -4,9 +4,11 @@
 
 The Family Educational Rights and Privacy Act (FERPA) protects the privacy of student records by prohibiting the disclosure of personal information without express consent. To ensure legal compliance, staff must obtain a signed FERPA Release before sharing any non-directory data with third parties.
 
+Students can submit FERPA Release Requests through [https://sac.edu/ferpa](https://sac.edu/ferpa).
+
 ---
 
-## Processing Steps
+## Entering a FERPA Release Request on Colleague
 
 1. Navigate to **Colleague → PERC**.
 2. Enter the **Student ID** and press **Enter**.

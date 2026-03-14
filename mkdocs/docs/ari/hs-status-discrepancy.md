@@ -15,6 +15,7 @@ The Financial Aid office issues **High School Status Discrepancy** forms when a 
     - If it is correct, the student needs to update their **FAFSA** application. Once it is updated, the student needs to notify our Financial Aid office.
 
     - If it is incorrect, proceed to the following steps.
+    
 3. Request the student's **official high school diploma or official high school transcript** showing awarding of diploma.
     - Make copies.
     - Send originals to scanning.

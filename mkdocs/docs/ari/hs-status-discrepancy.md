@@ -49,7 +49,9 @@ The Financial Aid office issues **High School Status Discrepancy** forms when a 
 
 ### Can We Use Unofficial Transcripts?
 - We **can** use unofficial transcripts per Hung.
-- *"For the high school transcript I would update it since it is self-reported on CCCApply. However, in order for us to remove the bachelor's degree we would need proof of non-enrollment/degree because it may make the student eligible or ineligible for financial aid."* — Hung, 12/30/21
+
+!!! quote "From H. Nguyen, 12/30/21"
+    For the high school transcript I would update it since it is self-reported on CCCApply. However, in order for us to remove the bachelor's degree we would need proof of non-enrollment/degree because it may make the student eligible or ineligible for financial aid.
 
 ### Student Cannot Obtain High School Transcripts or Diploma
 - Case-by-case review.

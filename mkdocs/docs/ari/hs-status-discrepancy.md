@@ -23,15 +23,15 @@ The Financial Aid office issues **High School Status Discrepancy** forms when a 
     - Drill into High School or adult education center.
     - Find **Graduation Type** and update as appropriate:
 
-    | Graduation Type | What It Means |
-    |----------------|---------------|
-    | **Diploma** | High school diploma from a school; will be on their official transcript |
-    | **Proficiency Exam** | Equivalent to GED |
-    | **High School Equivalency** | GED per Financial Aid |
-    | **HiSET** | GED |
-    | **GED** | State-issued GED certificate |
-    | **Foreign Diploma** | Completed high school in another country |
-    
+| Graduation Type | What It Means |
+|----------------|---------------|
+| **Diploma** | High school diploma from a school; will be on their official transcript |
+| **Proficiency Exam** | Equivalent to GED |
+| **High School Equivalency** | GED per Financial Aid |
+| **HiSET** | GED |
+| **GED** | State-issued GED certificate |
+| **Foreign Diploma** | Completed high school in another country |
+
 5. Click **Save All**.
 6. Mark the form and return it to the student to turn into Financial Aid.
 7. We can archive the Financial Aid form instead of having the student fill out a new Change of Information Request.

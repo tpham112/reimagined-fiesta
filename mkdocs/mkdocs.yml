@@ -66,7 +66,6 @@ nav:
     - Health Fee Exemption Form: ari/health-fee-exemption.md
     - High School Status Discrepancy: ari/hs-status-discrepancy.md
     - Registration: ari/registration.md
-    - Residency: ari/residency.md
     - Student Parent Priority Registration: ari/priority-registration.md
     - Petitions:
       - Pass/No Pass: ari/petitions/pass-no-pass.md
@@ -97,6 +96,7 @@ nav:
       - Academic Renewal: arii/petitions/academic-renewal.md
       - Overlapping Classes: arii/petitions/overlapping-classes.md
       - Prerequisite Challenge: arii/petitions/prerequisite-challenge.md
+      - Residency: arii/petitions/residency.md
       - SB554 Special Admit: arii/petitions/sb554.md
     - Residency Notes: arii/residency-notes.md
     - Subpoenas: arii/subpoenas.md

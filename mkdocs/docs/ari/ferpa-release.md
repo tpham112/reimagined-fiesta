@@ -47,7 +47,7 @@ Common College Directory Information Includes:
 - Participation in officially recognized activities and sports.
 - Photographs. 
 
-### Important Notes:
+### Important Notes
 
 | Note | Description |
 |------|-------------|

@@ -15,7 +15,7 @@ The Financial Aid office issues **High School Status Discrepancy** forms when a 
     - If it is correct, the student needs to update their **FAFSA** application. Once it is updated, the student needs to notify our Financial Aid office.
 
     - If it is incorrect, proceed to the following steps.
-    
+
 3. Request the student's **official high school diploma or official high school transcript** showing awarding of diploma.
     - Make copies.
     - Send originals to scanning.
@@ -31,6 +31,7 @@ The Financial Aid office issues **High School Status Discrepancy** forms when a 
     | **HiSET** | GED |
     | **GED** | State-issued GED certificate |
     | **Foreign Diploma** | Completed high school in another country |
+    
 5. Click **Save All**.
 6. Mark the form and return it to the student to turn into Financial Aid.
 7. We can archive the Financial Aid form instead of having the student fill out a new Change of Information Request.

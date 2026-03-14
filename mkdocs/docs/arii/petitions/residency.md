@@ -8,7 +8,7 @@
 
 ## Detailed Residency Notes
 
-For detailed edge cases and specific student situations, see the [ARII Residency Notes](../arii/residency-notes.md) section, which covers:
+For detailed edge cases and specific student situations, see the [ARII Residency Notes](../residency-notes.md) section, which covers:
 
 - AB 540 edge cases
 - Active Military

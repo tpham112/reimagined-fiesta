@@ -11,7 +11,7 @@ The Financial Aid office issues **High School Status Discrepancy** forms when a 
 ### 1. Access the Student Record
 - Navigate to **Colleague → IASU**.
 
-### 3. Verify High School Information
+### 2. Verify High School Information
 - Detail into the student's high school.
 - Verify if we have the correct high school graduation status.
     - If it is correct, the student needs to update their **FAFSA** application. Once it is updated, the student needs to notify our Financial Aid office.
@@ -20,10 +20,10 @@ The Financial Aid office issues **High School Status Discrepancy** forms when a 
 ### 3. Request Information
 - Request the student's **official high school diploma or official high school transcript** showing awarding of diploma.
     - Make copies.
-    - Send originals to scanning.
+    - Scan to Laserfiche.
 
 ### 4. Update Record
-- Open **IASU or ASUM**.
+- Navigate to **IASU**.
     - Detail into High School or adult education center.
     - Find **Graduation Type** and update as appropriate:
 

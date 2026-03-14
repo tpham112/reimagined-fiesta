@@ -1,8 +1,10 @@
 # Student Parent/Guardian — Priority Registration
 
+## Overview
+
 Processing Dynamic Form submissions for student parent/guardian priority registration.
 
-## Steps
+## Processing Steps
 
 ### 1. Access the Student Record
 - Log in to **Colleague**.
@@ -18,7 +20,7 @@ Processing Dynamic Form submissions for student parent/guardian priority registr
     - Enter the **End Date** for the current term.
 
 ### 4. Save Changes
-- Select **Save All** to apply the update to the student's record.
+- Click **Save All** to apply the update to the student's record.
 
 ## Completion
 

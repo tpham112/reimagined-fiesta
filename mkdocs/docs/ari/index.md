@@ -16,7 +16,6 @@ This section covers procedures handled by ARI (Admissions & Records I) staff, in
 | [High School Status Discrepancy](hs-status-discrepancy.md) | Resolving diploma vs. GED discrepancies |
 | **Petitions** | See Petitions section below |
 | [Registration](registration.md) | Processing student registrations in RGN |
-| [Residency](residency.md) | Residency form processing |
 | [Student Parent Priority Registration](priority-registration.md) | Priority registration for student parents/guardians |
 | [Pass/No Pass Petition](petitions/pass-no-pass.md) | Processing P/NP petitions |
 | [Overlapping Classes Petition](petitions/overlapping-classes.md) | Processing overlap petitions |

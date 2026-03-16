@@ -9,7 +9,7 @@ AR Tech handles system-level processes, batch operations, and complex student re
 | [Daily Tasks](daily-tasks.md) | Daily and quarterly task checklists |
 | [Academic Standing](academic-standing.md) | OUT2, probation codes |
 | [Billing Errors](billing-errors.md) | CVC rebills, ARTI, ARBC |
-| [Class Transfer](class-transfer.md) | Before/after census, waitlist rollover, batch transfer |
+| [Class Transfer](class-transfer.md) | Before/after census, waitlist transfer, batch transfer |
 | [CORM](corm.md) | Campus Organization Management, flags, bulk assignment |
 | [CVC](cvc.md) | CVC XSRWS errors, session management |
 | [Drops](drops.md) | EA drops, No Show drops, batch drops, student conduct, prereq drops |
@@ -29,3 +29,4 @@ AR Tech handles system-level processes, batch operations, and complex student re
 | [Miscellaneous](misc.md) | Batch enrollment, communications, backdating, misc procedures |
 | [Probation Holds](probation-holds.md) | Hold rules, release, OUT2 |
 | [Reinstatements](reinstatements.md) | Reinstatement process |
+| [Waitlist Rollover](waitlist-rollover.md) | Waitlist rollover process (manual and automated) |

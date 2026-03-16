@@ -1,4 +1,4 @@
-# Waitlist Rollover (Automated)
+# Waitlist Rollover
 
 ## Overview
 
@@ -31,10 +31,11 @@ We set up these automated processes once students are able to register for upcom
 - Click **Save All**.
 
 ### 3. Set Up the Email Notification
-- In Output Device, enter `E` for Electronic Mail Delivery.
+![Enter E in Output Device](../images/waitlist-rollover5.png)
+
 - Press **Enter**.
 
-![Set Up the Email Notification](../images/waitlist-rollover3.png)
+![Fill in the necessary fields](../images/waitlist-rollover3.png)
 
 - Click **Save All**.
 

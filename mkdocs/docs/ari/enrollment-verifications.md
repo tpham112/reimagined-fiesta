@@ -1,5 +1,8 @@
 # Enrollment Verifications
 
+Procedures for processing enrollment verification requests from students, third parties, and institutions, including applicable fees, FERPA requirements, and processing timelines.
+
+
 - **Everyone must pay the $2 fee**, except for:
     - Loan deferrals
     - Investigative requests for educational record data

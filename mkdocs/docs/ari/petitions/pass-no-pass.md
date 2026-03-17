@@ -2,9 +2,13 @@
 
 ## RGN Steps
 
-1. Open **RGN** and locate the student's enrollment record.
-2. Update the grading mode to Pass/No Pass.
-3. **Save All**.
+1. Access the Student Record
+    - Navigate to **Colleague → RGN**.
+    - Enter the **Student ID** and press **Enter**.
+2. Update Section Record
+    - Update the grading mode to Pass/No Pass.
+3. Save Changes
+    - Click **Save All**.
 
 !!! note
     Screenshot of the RGN screen is stored in the original Word manual for reference. Add screenshot here when available.

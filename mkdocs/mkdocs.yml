@@ -70,6 +70,7 @@ nav:
     - Petitions:
       - Pass/No Pass: ari/petitions/pass-no-pass.md
       - Overlapping Classes: ari/petitions/overlapping-classes.md
+      - Overload: ari/petitions/overload.md
       - Prerequisite Challenge: ari/petitions/prerequisite-challenge.md
   - ARII Procedures:
     - Overview: arii/index.md

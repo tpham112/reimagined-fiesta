@@ -21,8 +21,8 @@
 | **Date received** | Current date |
 | **Status** | `RECD` — Official Received |
 | **Year attended** | Year of first and last term attended |
-| **Start/End dates** | See semester date codes below |
-| **Degree received** | Enter if Associate's or Bachelor's degree is found on transcript |
+| **Start/End dates** | No longer need to enter |
+| **Acad Credentials** | Enter if Associate's or Bachelor's degree is found on transcript |
 | **Comment** | Timestamp + note (use one of the source codes below) |
 
 ### Semester Date Codes

@@ -2,7 +2,7 @@
 
 AR Tech handles system-level processes, batch operations, and complex student record management.
 
-## Quick Navigation
+## Procedures in This Section
 
 | Area | Description |
 |------|-------------|

@@ -27,7 +27,7 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
-plugins:
+plugins: 
   - search:
       lang: en
   - tags

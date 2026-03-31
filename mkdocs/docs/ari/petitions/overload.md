@@ -2,7 +2,14 @@
 
 ## Overview
 
-Students are capped at 
+Students will need an Overload Petition if they want to take more than
+
+- Spring/Fall
+    - 18 units
+- Summer
+    - 9 units
+- Spring Intersession
+    - 6 units
 
 ---
 

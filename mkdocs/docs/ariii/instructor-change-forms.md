@@ -5,6 +5,7 @@
 ### Prior to Grades Assigned
 
 **RGN:**
+
 1. Enter **Student ID**.
 2. Find the course.
 3. Change the units.
@@ -23,6 +24,7 @@
 ### After Grades Assigned
 
 **STAC:**
+
 1. Enter **Student ID**.
 2. Detail into the section.
 3. Update units.
@@ -39,6 +41,7 @@
 ## Reinstatement
 
 **RGCS:**
+
 1. Enter **Student ID** and detail into the course.
 2. Copy or write down the original drop date.
 3. Enter the following fields:
@@ -55,6 +58,7 @@
 4. Click **Save All**.
 
 **STAC:**
+
 1. Enter **Student ID** and detail into the course.
 2. Go to **Line 2** of Status/Dt/Time/Reason to see the drop time.
 3. Go back to **Line 1** and update the add time to **at least one minute after the drop time**.
@@ -94,6 +98,7 @@
         - Check XSRWS for a waiver. If none, drop the higher-level/corequisite course as well using reason `PD`.
 
 **STAC:**
+
 1. Enter **Student ID** and detail into the course.
 2. With an EA drop, sometimes an **empty drop line** is added. Click on a Status/Dt/Time/Reason field.
 3. Click the **">"** arrow to check through multiple lines for empty drop lines.
@@ -103,6 +108,7 @@
 7. Click **Save All**.
 
 **Possible Error — Class is active in STAC but does not show on RGN:**
+
 1. Check in STAC if the program is CC or CE.
 2. If CC, check RGCS to see if a grade was already entered in error.
 
@@ -116,6 +122,7 @@
 ### On Time No Show Drops
 
 **Verify before processing:**
+
 - Card was submitted by instructor (ideally from instructor or division email) or on Dynamic Forms.
 - Was submitted **prior to class drop deadline** (check SRGD).
 - Form is **complete** (including section number).
@@ -142,6 +149,7 @@
 Click **Save All**. (Drop corequisite/higher-level course with `PD` if applicable.)
 
 **STAC:**
+
 1. Enter **Student ID** and detail into the course.
 2. Remove any empty drop lines using the **">"** arrow and **Delete**.
 3. Go to Line 2 to see add time.
@@ -156,12 +164,14 @@ Click **Save All**. (Drop corequisite/higher-level course with `PD` if applicabl
 ### If Student Dropped Before You Can Process
 
 **STAC:**
+
 1. Update Drop date to **first day of class**.
 2. Update Reason to **`NS`**.
 3. Remove W or any grade.
 4. Click **Save All**.
 
 **RGCS:**
+
 1. Update Status Reason to **`NS`** if not already.
 2. Remove W or grade.
 3. Update Never Attended to **`Y`**.
@@ -172,6 +182,7 @@ Click **Save All**. (Drop corequisite/higher-level course with `PD` if applicabl
 ### Late NS/N1 Drops When Grade Is on File
 
 **STAC (skip if grade has not yet been assigned):**
+
 1. Enter **Student ID** and detail into the course.
 2. Delete grade if any.
 3. Detail into **Notes/Comments** → **Comments**.
@@ -179,6 +190,7 @@ Click **Save All**. (Drop corequisite/higher-level course with `PD` if applicabl
 5. Save out of Comments, STNC, SACD, and STAC.
 
 **RGCS (skip if grade has not yet been assigned):**
+
 1. Enter **Student ID** and detail into the course.
 2. Delete grade.
 3. Click **Save All**.
@@ -188,6 +200,7 @@ Click **Save All**. (Drop corequisite/higher-level course with `PD` if applicabl
 **RGN/SRGC:** Follow the same fields as On Time No Show — use **`NS`** or **`N1`** as Status Reason.
 
 **STAC:**
+
 1. Remove any empty drop lines.
 2. Update drop time to at least one minute after add time.
 3. Leave a comment: Timestamp + **"Late No Show"**.
@@ -209,6 +222,7 @@ Click **Save All**. (Drop corequisite/higher-level course with `PD` if applicabl
     Instructors requesting an EA drop after the withdrawal deadline need a **Division Dean's signature** before processing.
 
 **STAC:**
+
 1. Enter **Student ID** and detail into the course.
 2. Delete grade.
 3. Detail into **Notes/Comments**.
@@ -218,11 +232,13 @@ Click **Save All**. (Drop corequisite/higher-level course with `PD` if applicabl
 7. Click **Save All**.
 
 **RGCS:**
+
 1. Enter **Student ID** and detail into the course.
 2. Delete grade.
 3. Click **Save All**.
 
 **STAC:**
+
 1. Enter **Student ID** and detail into the course.
 2. Enter the **new grade**.
 3. Click **Save All**.

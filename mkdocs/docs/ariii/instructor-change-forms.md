@@ -260,6 +260,7 @@ Click **Save All**. (Drop corequisite/higher-level course with `PD` if applicabl
 ### Before Census
 
 **RGN:**
+
 1. Enter **Student ID** and detail into the old course.
 2. Set Status to **`D`** (Dropped), Status Reason to **`TR`** (Transfer).
 3. Click **Save**.
@@ -268,6 +269,7 @@ Click **Save All**. (Drop corequisite/higher-level course with `PD` if applicabl
 6. Click **Save All**.
 
 **STAC:**
+
 1. Detail into the dropped section.
 2. Add **`TR`** code to dropped section if needed — note the time.
 3. Click **Save**.

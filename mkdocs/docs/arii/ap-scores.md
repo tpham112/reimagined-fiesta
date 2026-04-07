@@ -7,49 +7,49 @@
 
 ---
 
-## Steps
+## Processing Steps
 
-### 1. Check Student Enrollment
-1. Navigate to **Colleague → STAC**.
-2. Confirm the student has grades on the system before proceeding.
+1. Check Student Enrollment
+    - Navigate to **Colleague → STAC**.
+    - Confirm the student has grades on the system before proceeding.
 
-### 2. Enter AP Exam Information
-1. Navigate to **Colleague → TSUM**.
-2. Enter the **Student ID**.
-3. First box: enter **`Ap...`**
-4. **Date taken:** `05/15` followed by the year the exam was taken.
-5. **Scores:** Input the passing score (3–5).
-6. **CSUF:** Enter codes.
-7. **IGETC:** Enter codes.
-8. **AA:** Enter codes.
-9. Click **Save All**.
-
-### 3. Update Degree Audit
-1. Navigate to **Colleague → EXTS**.
-2. Enter the **Student ID**.
-3. Select: **Advance Placement (for Conversion)**
-    - If not on the list, select **A** in input, open.
-    - *Institution look-up:* `1068036` or **Advanced Placement (for Conversion)**
-    - Click **Save**.
-    - Click **Update**.
-4. Detail into the **first line**:
-    - **External Course:** Enter AP code
-    - **End Date:** `05/15` followed by the year the exam was taken
-    - **Grade Scheme:** `CC`
-    - **Grade:** `P`
-    - **Term:** Year of exam and `SP`
-    - Click **Save** and **Update**.
-    - Click **Cancel**.
-5. Detail into the **next magnifying glass** on the first line:
-    - Click on the Equivalency line — information will populate.
+2. Enter AP Exam Information
+    - Navigate to **Colleague → TSUM**.
+    - Enter the **Student ID**.
+    - First box: enter **`Ap...`**
+    - **Date taken:** `05/15` followed by the year the exam was taken.
+    - **Scores:** Input the passing score (3–5).
+    - **CSUF:** Enter codes.
+    - **IGETC:** Enter codes.
+    - **AA:** Enter codes.
     - Click **Save All**.
 
-### 4. Check Student's Transcripts
-1. Navigate to **Colleague → TRAN**.
-2. Check to see if AP scores are updated on the student's transcripts.
+3. Update Degree Audit
+    - Navigate to **Colleague → EXTS**.
+    - Enter the **Student ID**.
+    - Select: **Advance Placement (for Conversion)**
+        - If not on the list, select **A** in input, open.
+        - *Institution look-up:* `1068036` or **Advanced Placement (for Conversion)**
+        - Click **Save**.
+        - Click **Update**.
+    - Detail into the **first line**:
+        - **External Course:** Enter AP code
+        - **End Date:** `05/15` followed by the year the exam was taken
+        - **Grade Scheme:** `CC`
+        - **Grade:** `P`
+        - **Term:** Year of exam and `SP`
+        - Click **Save** and **Update**.
+        - Click **Cancel**.
+    - Detail into the **next magnifying glass** on the first line:
+        - Click on the Equivalency line — information will populate.
+        - Click **Save All**.
 
-### 5. Laserfiche
-- Once evaluated, **upload to Laserfiche**.
+4. Check Student's Transcripts
+    - Navigate to **Colleague → TRAN**.
+    - Check to see if AP scores are updated on the student's transcripts.
+
+5. Laserfiche
+    - Once evaluated, **upload to Laserfiche**.
 
 ---
 

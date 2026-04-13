@@ -2,6 +2,16 @@
 
 ARIII handles academy enrollments, incoming college transcript evaluation, application batch processing, petitions, and more.
 
+---
+
+## Helpful Links
+
+| Resource | Description |
+|----------|------|
+| [CCC Evaluators Listserv](https://urldefense.com/v3/__https://listserv.cccnext.net/scripts/wa-cccnext.exe?SUBED1=CCC-EVALUATORS&A=1__;!!Gqic7nUINw!lTzoVhv4QBDEz3rUXS_-8k4GwrMza3RpsMVH7FnNFMguO3OfstGmbYocAKK1RW_xB59s2BgzoYLGABNspEhBj010ArMwNa5MqzyV4Z4H2sQ$) | Listserv for California Community College Evaluators |
+
+---
+
 ## Procedures in This Section
 
 | Area | Description |

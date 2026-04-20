@@ -83,6 +83,7 @@ Admissions enters CORM flags:
 2. Go to an empty line.
 3. Enter **`1PUEN`** (Puente) or **`1ULIN`** (ULINK) → press Enter.
 4. Enter the highlighted fields.
+5. Detail into Comments and leave a note that this was authorized by the specialist from Puente/U-Link/U2 Scholars.
 5. **Save All.**
 
 !!! note "Screenshot Placeholder"

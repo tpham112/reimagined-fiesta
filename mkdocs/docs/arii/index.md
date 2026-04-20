@@ -10,7 +10,6 @@ This section covers procedures handled by ARII staff, including applications, tr
 | [Applications](applications.md) | Paper application processing and fraud |
 | [Dual Enrollment](dual-enrollment.md) | Processing dual enrollment (high school) students |
 | [Duplicate ID Merge](duplicate-id-merge.md) | Requesting duplicate ID merges |
-| [Early Decision](early-decision.md) | Early Decision processing and troubleshooting |
 | [Fraud](fraud.md) | Handling fraudulent applications |
 | [High School Language Proficiency](hs-language-proficiency.md) | Language proficiency processing |
 | [Home-School](home-school.md) | Home-school student enrollment |

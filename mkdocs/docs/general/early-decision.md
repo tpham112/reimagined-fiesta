@@ -65,6 +65,7 @@ Before the event, have these ready:
 
 - We can accept student transcript and Aeries ID
     - Make note in PERC that we saw the student at Early Decision and verified that they are a real person and we saw their transcripts and ID.
+    - Do **not** need to file.
 
 **Adult Education Students**
 

@@ -43,7 +43,8 @@ Before the event, have these ready:
 
 **Non-Resident Students:**
 
-- **Option 1 (documentation):**
+- **Option 1 (documentation uploaded to Change of Information Request):**
+    - **For pre-determined to be resident students only**
     - **ID:** California ID or school ID (Aeries screenshot with student photo).
     - **Transcripts:** HS transcript showing courses at a CA high school for the past 2 years.
     - **Citizenship:** HS Demographic Report showing U.S. citizenship, or HS transcript showing U.S. as birthplace.

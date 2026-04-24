@@ -21,6 +21,6 @@ ARIII handles academy enrollments, incoming college transcript evaluation, appli
 | [Instructor Change Forms](instructor-change-forms.md) | Unit changes, reinstatements, EA drops, No Show drops, grade changes, class transfers |
 | [Application Batches](applications.md) | Downloading and clearing application batch errors in EAPP/AIBD |
 | [Fraudulent Applications](fraud.md) | Processing fraud flags and identity verification |
-| [Petitions](petitions.md) | EW petitions, N1 drops, Change of Info, Unit Overload, Pass-Alongs, Probation/Dismissal |
+| [Petitions](petitions.md) | EW petitions, Probation/Dismissal |
 | [Transcripts — Incoming Colleges](transcripts.md) | Total transfer unit evaluation/processing, GE evaluation, pseudo processing |
 | [Academic Probation](academic-probation.md) | Probation codes, dismissal, and intervention |

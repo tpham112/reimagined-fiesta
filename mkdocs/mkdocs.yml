@@ -110,8 +110,9 @@ nav:
     - Instructor Change Forms: ariii/instructor-change-forms.md
     - Applications: ariii/applications.md
     - Fraudulent Applications: ariii/fraud.md
-    - Petitions: ariii/petitions.md
+    - Petitions:
       - Excused Withdrawals: ariii/petitions/excused-withdrawals.md
+      - Probation Hold Releases: ariii/petitions/probation-hold-releases.md
     - Transcripts: ariii/transcripts.md
     - Academic Probation: ariii/academic-probation.md
   - AR Tech Procedures:

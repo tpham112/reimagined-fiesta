@@ -27,6 +27,18 @@
 
 ---
 
+## N1 Drops (Academies)
+
+**STAC:**
+1. Detail into the desired section.
+2. Insert in Status/Dt/Time/Reason: `D / Start Date of Class / 11:59 PM / N1`
+3. Detail into Notes/Comments → Comments.
+4. Timestamp.
+5. Write comment (e.g., *"N1 Drop per Instructor and W. Reardon"*).
+6. Save All.
+
+---
+
 ## Lifeguard ISA
 
 - Terry should only submit once, **October of the following year**.

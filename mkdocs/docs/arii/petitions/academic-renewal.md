@@ -125,8 +125,10 @@ If a degree or certificate appears on the transcript, an RWO can still be proces
 
 ### Specific Cases
 
-- **Student is currently enrolled in a course for the third time and seeking an RWO for a previous F:** Yes, you can process the RWO — their current grade will stand.
-- **Can a student request an RWO for the same class a second time?** Yes, as long as they meet all criteria on the back of the form *(Hung discussed this with Mark 05/13/24)*.
+- **Student is currently enrolled in a course for the third time and seeking an RWO for a previous F:** 
+    - Yes, you can process the RWO — their current grade will stand.
+- **Can a student request an RWO for the same class a second time?** 
+    - Yes, as long as they meet all criteria on the back of the form *(Hung discussed this with Mark 05/13/24)*.
 
 ---
 

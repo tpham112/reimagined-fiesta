@@ -1,10 +1,11 @@
 # High School Language Proficiency
 
-## Rule
+## Guiding Rule
 
 Students must have **two years of the same foreign language** with a grade of **C- or higher in the last semester**.
 
-- Must be the **same language** (e.g., two years of French — not one year of Spanish and one year of French).
+!!! note "Note"
+    Must be the **same language** (e.g., two years of French — not one year of Spanish and one year of French).
 
 ---
 

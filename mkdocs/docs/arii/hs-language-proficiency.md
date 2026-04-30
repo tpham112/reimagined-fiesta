@@ -60,5 +60,5 @@ Students must have **two years of the same foreign language** with a grade of **
 
     - Click **Save All**
 
-!!! warning "Check Your Work!"
-    After processing, verify in **TRAN** that the language proficiency appears correctly on the transcript.
+    !!! warning "Check Your Work!"
+        After processing, verify in **TRAN** that the language proficiency appears correctly on the transcript.

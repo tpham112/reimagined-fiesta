@@ -24,7 +24,7 @@
         ```
     - Click **Save All**.
 
-    !!! note "Check Your Work"
+    !!! note
         You can check your work by navigating to **TRAN** to make sure that the desired course has the Honors notation that you made.
 
 3. Close Out Honors Contract

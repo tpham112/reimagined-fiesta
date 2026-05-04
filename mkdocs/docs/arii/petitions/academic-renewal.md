@@ -17,29 +17,35 @@ Can only be processed if the C-ID matches for both schools **OR** approved by th
 
 ---
 
-### STAC Steps
+### Processing Steps
 
-1. Detail into the course by clicking the icon next to the course number.
+1. Check Student Course Repetitions
 
-    !!! note "Screenshot Placeholder"
-        STAC course detail screenshot is in the original Word manual.
-
-2. Select **STRP** from the detail screen.
+    - Navigate to **Colleague → STAC**.
+    - Detail into the course by clicking the paper icon next to the course number.
+    - Select **STRP** from the detail screen.
 
     !!! warning
-        Check if there are other courses marked as **"R — Replaced by Colleague"**. The **maximum allowable is 2 R's**.
+        - Check if there are other courses marked as **"R — Replaced by Colleague"**. The **maximum allowable is 2 R's**.
         *On repetition to alleviate substandard grades, only the first two substandard grades may be excluded from GPA calculation (55042).*
-    
-    !!! note "Screenshot Placeholder"
-        STRP screen screenshot is in the original Word manual.
+        - This means that the last substandard grade will always stand and cannot be forgiven with this form.
+        - If the student still would like a forgiveness for this last substandard grade, they will need to submit an Academic Renewal **Without** Course Repetition (RWO).
 
-3. Cancel out, then detail back into the course and select **SACD**.
-    - **Credit Type:** `AR`
-    - **Important: Do not touch the grade or any other fields on this screen.**
-    - Drill into **Note/Comments**.
+2. Update Course Details
 
-4. In **Notes/Comments:**
-    - **Notes:** Enter `TRR`
+    - Cancel out, then detail back into the course and select **SACD**.
+    - Credit Type: `AR`
+        
+    !!! danger
+        Do not touch the grade or any other fields on this screen.
+
+3. Update Course Notes
+    - Detail into **Note/Comments**.
+
+        | Field | Entry |
+        |-|-|
+        | Notes | `TRR` |
+
     - **Comments:** Enter the following (with timestamp):
       > This section was repeated at "[NAME OF COLLEGE]" with grade "[GRADE]" in "[TERM]" for "[UNITS]"
       > 
@@ -52,13 +58,8 @@ Can only be processed if the C-ID matches for both schools **OR** approved by th
     !!! danger
         Printed Comments **will appear on the transcript** — verify spelling before saving.
 
-    !!! note "Screenshot Placeholder"
-        Notes/Comments and Printed Comments screenshots are in the original Word manual.
-
-5. Go to **TRAN** to verify the changes appear correctly on the transcript.
-
-    !!! note "Screenshot Placeholder"
-        TRAN verification screenshots are in the original Word manual.
+4. Verify Changes
+    - Go to **TRAN** to verify the changes appear correctly on the transcript.
 
 ---
 

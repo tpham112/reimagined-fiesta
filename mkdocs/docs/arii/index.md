@@ -8,7 +8,7 @@ This section covers procedures handled by ARII staff, including applications, tr
 |-----------|-------------|
 | [AP Scores](ap-scores.md) | Processing AP exam scores into Colleague |
 | [Applications](applications.md) | Paper application processing and fraud |
-| [Dual Enrollment](dual-enrollment.md) | Processing dual enrollment (high school) students |
+| **Dual Enrollment** | See Dual Enrollment section below |
 | [Duplicate ID Merge](duplicate-id-merge.md) | Requesting duplicate ID merges |
 | [Fraud](fraud.md) | Handling fraudulent applications |
 | [High School Language Proficiency](hs-language-proficiency.md) | Language proficiency processing |
@@ -18,6 +18,14 @@ This section covers procedures handled by ARII staff, including applications, tr
 | **Transcripts** | See Transcripts section below |
 | **Petitions** | See Petitions section below |
 | [Residency Notes](residency-notes.md) | Detailed residency edge cases |
+
+## Dual Enrollment Procedures
+| Procedure | Description |
+|-----------|-------------|
+| [High School Dual Enrollment](dual-enrollment/dual-enrollment.md) | Processing Dual Enrollment requests |
+| [Home School Dual Enrollment](dual-enrollment/home-school.md) | Processing Home School Dual Enrollment requests |
+| [Open Section Enrollment](dual-enrollment/open-section-enrollment.md) | Processing Open Section Dual Enrollment requests |
+| [SCC Special Admit](dual-enrollment/scc-special-admit.md) | Processing SCC Special Admit requests |
 
 ## Transcript Procedures
 

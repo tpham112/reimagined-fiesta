@@ -77,13 +77,14 @@ nav:
     - Overview: arii/index.md
     - AP Scores: arii/ap-scores.md
     - Applications: arii/applications.md
-    - Dual Enrollment: arii/dual-enrollment.md
+    - Dual Enrollment:
+      - High School Dual Enrollment: arii/dual-enrollment/dual-enrollment.md
+      - Home-School: arii/dual-enrollment/home-school.md
+      - Open Section Enrollment: arii/dual-enrollment/open-section-enrollment.md
+      - SCC Special Admit: arii/dual-enrollment/scc-special-admit.md
     - Duplicate ID Merge: arii/duplicate-id-merge.md
     - Fraud: arii/fraud.md
     - High School Language Proficiency: arii/hs-language-proficiency.md
-    - Home-School: arii/home-school.md
-    - Open Section Enrollment: arii/open-section-enrollment.md
-    - SCC Special Admit: arii/scc-special-admit.md
     - Transcripts:
       - Process Parchment Orders: arii/transcripts/parchment-orders.md
       - Download Incoming (Parchment): arii/transcripts/download-parchment.md

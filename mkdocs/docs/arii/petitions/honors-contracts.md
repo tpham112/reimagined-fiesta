@@ -1,23 +1,32 @@
 # Honors Contracts
 
-## STAC Steps
+## Processing Steps
 
-1. **Detail into the section.**
+1. Access Honors Contract
+    - Navigate to **Dynamic Forms**.
+    - Detail into Multi-Pending for Honors Contracts
 
-    !!! note "Screenshot Placeholder"
-        STAC section detail screenshot is in the original Word manual.
+2. Update Student Record
 
-2. **Detail into SACD.**
+    - Navigate to **Colleague → STAC**.
+    - Detail into the section.
+    - Detail into **SACD**.
+    - Detail into **Notes/Comments**.
+    - Detail into **Comments**.
+    - Timestamp and enter comment:
+        ```
+        [Timestamp]
+        "Honors Contract on file"
+        ```
+    - Enter comments in Printed Comments:
+        ```
+        "Honors Contract Agreement Met"
+        ```
+    - Click **Save All**.
 
-3. **Detail into Notes/Comments.**
+    !!! note "Check Your Work"
+        You can check your work by navigating to **TRAN** to make sure that the desired course has the Honors notation that you made.
 
-4. **Detail into Comments.**
-
-5. **Timestamp and enter comment.**
-
-6. **Enter comments in Printed Comments.**
-
-7. **Save All.**
-
-!!! note "Screenshot Placeholders"
-    Screenshots for steps 2–6 are in the original Word manual.
+3. Close Out Honors Contract
+    - Sign the Honors Contract Dynamic Form.
+    - Click the **Submit** button.

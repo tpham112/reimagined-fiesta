@@ -1,6 +1,6 @@
 # Process Parchment Transcript Orders
 
-## Steps
+## Processing Steps
 
 1. Log into your **Parchment Exchange** account at [exchange.parchment.com](https://exchange.parchment.com/u/auth/login) and click **Resume Printing**.
 

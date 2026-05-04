@@ -1,6 +1,6 @@
 # Download Incoming Transcripts — XAP
 
-## Steps
+## Processing Steps
 
 1. Log into **XAP Control Center** at:
    [XAP Transcripts Report](https://control.xap.com/secure/transcripts/reports/Report_View.asp?Report_ID=2493)
@@ -16,13 +16,13 @@
 6. **Name each file in this format:**
 
     ```
-    Lastname, Firstname_STUDENTID_School name
+    Lastname, Firstname_STUDENTID_School Name
     ```
 
     If no Colleague ID is found:
 
     ```
-    Lastname, Firstname_NO ID_School name
+    Lastname, Firstname_NO ID_School Name
     ```
 
 7. Move the downloaded transcripts to the **XAP folder** in the M Drive *(see [Move to M Drive](m-drive.md))*.

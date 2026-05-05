@@ -34,17 +34,14 @@ Can only be processed if the C-ID matches for both schools **OR** approved by th
 2. Update Course Details
 
     - Cancel out, then detail back into the course and select **SACD**.
-    - Credit Type: `AR`
+    - **Credit Type:** `AR`
         
     !!! danger
         Do not touch the grade or any other fields on this screen.
 
 3. Update Course Notes
     - Detail into **Note/Comments**.
-
-        | Field | Entry |
-        |-|-|
-        | Notes | `TRR` |
+    - **Notes:** `TRR`
 
     - **Comments:** Enter the following (with timestamp):
       > This section was repeated at "[NAME OF COLLEGE]" with grade "[GRADE]" in "[TERM]" for "[UNITS]"
@@ -76,7 +73,6 @@ A student took a course three times with substandard grades, then retook it a fo
 ### Requirements
 
 - RWO's are processed at the student's home location.
-- Make sure incoming transcripts are evaluated by **ARIII** before proceeding.
 - For units completed, use **Completed units** — `P` grades count.
 - **GPA calculation** is completed by ARII before processing:
     - Start counting after the last requested substandard grade's term.

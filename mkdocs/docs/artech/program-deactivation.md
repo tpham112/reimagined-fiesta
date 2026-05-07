@@ -2,39 +2,33 @@
 
 Academic program deactivation is a multi-step process run quarterly.
 
-*See Hung's detailed Program Deactivation documentation for the full step-by-step procedure. The steps below are a summary.*
+---
 
-## Step ONE — Identify Programs to Deactivate
+## Processing Steps
 
-Identify programs that are no longer active and need to be deactivated in Colleague.
+1. Update and Run Program Deactivation Query
+    
+    - Update Exclude clauses
+        - Update enrollment terms
+        - Update application terms
+        - Update long term section dates
+    - Run query
 
-## Step TWO — Prepare Student Records
+2. Spot-check List
 
-Review student records currently in the programs to be deactivated. Ensure students are moved to active programs before deactivation.
+    - Share list with team to spot-check students and verify that the students should indeed be deactivated
 
-## Step THREE — SPRO Updates
+2. Run Deactivation Process
 
-Inactivate the academic programs on SPRO with appropriate end dates.
+    - Navigate to **Colleague → SLED**.
+    - Copy list of students to deactivate into your desired list.
+    - Navigate to **Colleague → ESTP**.
 
-## Step FOUR — Verify
+    | Field | Entry |
+    |-------|-------|
+    | Action | Type in `U` |
+    | Student Program End Date | Type in today's date |
+    | New Status | Type in `I` |
+    | Student Programs Saved List | Type in your list name |
 
-Verify all student records have been updated and no active students remain in the deactivated program.
-
-## Step FIVE — Final Cleanup
-
-Complete any remaining cleanup steps as outlined in Hung's documentation.
-
-## Step SIX — RLDE
-
-Update any RLDE rules that reference the deactivated programs.
-
-## Step SEVEN — Communication
-
-Notify relevant departments of the program deactivation.
-
-## Step EIGHT — Documentation
-
-Document the deactivation in the appropriate logs.
-
-!!! note
-    The full detailed procedure is in Hung's Program Deactivation documentation.
+    - Click **Save All**.

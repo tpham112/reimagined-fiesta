@@ -21,8 +21,10 @@
 ### Core Rules
 
 - ✅ Residency can be updated **for terms within the last year**.
-- If a student has not attended for **2 full terms (Spring or Fall)**, we can take a new application's residence determination per Residency Overview and RSCCD Academic Regulations.
-    - E.g., if a student submitted a Non-Resident application in 2025SU, has not taken any courses for 2025FA and 2026SP, and submits a new application for 2026SU as a Resident, we can update to CA Resident based on the CCCApply application.
+    - E.g., if is currently 2026SP, we can process reclasses for 2025SP.
+    - Anything prior can be elevated to the Associate Dean.
+- We can take a new application's residence determination per Residency Overview and RSCCD Academic Regulations.
+    - E.g., if a student submitted a Non-Resident application in 2025SU and submits a new application for 2026SI as a Resident, we can update to CA Resident based on the CCCApply application.
 
 ### Timing & Backdating
 
@@ -39,7 +41,7 @@ Residency date = **one day before term start** (e.g., term starts 6/16/25 → en
 
 Common proofs: CA Driver License (issue date), lease/rental agreement, CA voter registration (check voting history dates), CA professional license ([DCA search](https://search.dca.ca.gov/)).
 
-!!! tip
+!!! note
     If documentation is incomplete, **do not deny immediately** — review with leads for alternatives first.
 
 ### Who Is Eligible
@@ -60,16 +62,34 @@ Common proofs: CA Driver License (issue date), lease/rental agreement, CA voter 
 
 ---
 
-## Colleague System Steps
+## Processing Steps
 
-### ASUM
-- Academic Program → **Res Stat: R — California Resident**
+1. Update Student Application
+    - Navigate to **Colleague → ASUM**.
+    - Enter the student ID.
+    - Detail into the desired application.
+        - **Res Stat:** `R`
 
-### ASPR
-- Insert **R — California Resident**
-- Date = one day before term start
-    - If unsure, check RYAT
-- Ensure Resident status appears on first line or position 1
+2. Update Student Residency Status
+    - Navigate to **Colleague → ASPR**.
+        - **Residency Status:** Insert a new line and enter `R`
+        - **Residency Date:** one day before term start
+            - If unsure, check RYAT
+
+    !!! tip
+        Ensure Resident status appears on first line or position 1
+
+3. Enter Comments
+    - Detail in to **Comment/Remarks**.
+    - Double-click **UTEC - Edit Comments**.
+    - Enter comments
+        - Example:
+        ```
+        May 5 2026 12:02 PM Mega T. Tron
+        2026FA N to R
+        CA 540 2025
+        CA Bank Statements 8/1/25 & 4/30/26
+        ```
 
 ### Comments (UTEC)
 Include: Timestamp · "California Residency" · Documents reviewed

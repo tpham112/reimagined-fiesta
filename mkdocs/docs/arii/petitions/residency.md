@@ -25,6 +25,9 @@
     - Anything prior can be elevated to the Associate Dean.
 - We can take a new application's residence determination per Residency Overview and RSCCD Academic Regulations.
     - E.g., if a student submitted a Non-Resident application in 2025SU and submits a new application for 2026SI as a Resident, we can update to CA Resident based on the CCCApply application.
+    - Proofs
+        - In these cases, make a comment on ASPR stating that CCCApply has classified the student as Resident..
+        - Student will not need to submit documentation for reclass.
 
 ### Timing & Backdating
 

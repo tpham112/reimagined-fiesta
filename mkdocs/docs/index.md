@@ -2,11 +2,14 @@
 
 **Santa Ana College · Admissions & Records**
 
-*Last updated: April 20, 2026*
+*Last updated: May 13th, 2026*
 
 ---
 
 Welcome to the A&R Procedure Manual. Use the navigation on the left or the **search bar** at the top to quickly find any procedure by keyword.
+
+!!! tip "Procedure Manual Migration In Process"
+    Please note that we are currently in the process of moving information from the Word document to this new platform. Please reach out to me to let me know if there are missing sections or if there needs to be any updates!
 
 ## Quick Reference
 
